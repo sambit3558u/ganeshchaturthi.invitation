@@ -1,2 +1,1 @@
-# ganeshchaturthi.invitation
-Ganesh Chaturthi Invitation Card
+# ganpati-invitation
